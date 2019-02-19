@@ -8,7 +8,7 @@ pytz==2013b
 xlwt
 jinja2
 xmldict
-lxml
+lxml==4.3.1
 babel
 networkx
 gdata
