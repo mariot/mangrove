@@ -1,6 +1,6 @@
 nose
 CouchDB==0.9
-coverage==3.4
+coverage==4.5.2
 simplejson
 mock
 iso8601==0.1.4
@@ -16,4 +16,4 @@ xlrd
 pylibmc
 xmltodict==0.8.6
 python-dateutil==1.5
-Pillow==2.7.0
+Pillow==5.4.1
